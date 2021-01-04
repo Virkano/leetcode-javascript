@@ -20,7 +20,7 @@
 
 ### 例题详解
 
-[最接近的三数之和](https://github.com/Virkano/gitalk/issues/2)
+[最接近的三数之和](https://github.com/Virkano/gitalk/issues/2)<br/>
 
 
 ### 递归与回溯
@@ -29,8 +29,8 @@
 
 ### 动态规划
 
-[斐波那契数列](https://github.com/Virkano/gitalk/issues/3)
-[整数拆分](https://github.com/Virkano/gitalk/issues/7)
+[斐波那契数列](https://github.com/Virkano/gitalk/issues/3)<br/>
+[整数拆分](https://github.com/Virkano/gitalk/issues/7)<br/>
 
 ### 双指针
 
@@ -64,9 +64,9 @@
 
 ### DFS
 
-[在每个树行中找最大值](https://github.com/Virkano/gitalk/issues/4)
-[岛屿的最大面积](https://github.com/Virkano/gitalk/issues/5)
-[被围绕的区域](https://github.com/Virkano/gitalk/issues/6)
+[在每个树行中找最大值](https://github.com/Virkano/gitalk/issues/4)<br/>
+[岛屿的最大面积](https://github.com/Virkano/gitalk/issues/5)<br/>
+[被围绕的区域](https://github.com/Virkano/gitalk/issues/6)<br/>
 
 ### 二叉树
 
