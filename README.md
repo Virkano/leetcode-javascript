@@ -21,6 +21,7 @@
 ### 例题详解
 
 [最接近的三数之和](https://github.com/Virkano/gitalk/issues/2)<br/>
+[背包（01背包）](https://github.com/Virkano/gitalk/issues/15)<br/>
 
 
 ### 递归与回溯
@@ -31,9 +32,19 @@
 
 [斐波那契数列](https://github.com/Virkano/gitalk/issues/3)<br/>
 [整数拆分](https://github.com/Virkano/gitalk/issues/7)<br/>
+[完全平方数](https://github.com/Virkano/gitalk/issues/9)<br/>
+[打家劫舍](https://github.com/Virkano/gitalk/issues/10)<br/>
+[打家劫舍 |||](https://github.com/Virkano/gitalk/issues/11)<br/>
+[零钱兑换 II](https://github.com/Virkano/gitalk/issues/12)<br/>
+[使用最小花费爬楼梯](https://github.com/Virkano/gitalk/issues/13)<br/>
+[分割等和子集（01背包的变种）](https://github.com/Virkano/gitalk/issues/16)<br/>
+[最大子序和](https://github.com/Virkano/gitalk/issues/17)<br/>
+[乘积最大子数组](https://github.com/Virkano/gitalk/issues/18)<br/>
+[买卖股票的最佳时机](https://github.com/Virkano/gitalk/issues/19)<br/>
+
 
 ### 双指针
-
+[删除排序数组中的重复项 ](https://github.com/Virkano/gitalk/issues/8)<br/>
 
 
 ### 前缀和
@@ -81,7 +92,7 @@
 
 
 ### 数据结构
-
+[实现 Trie (前缀树)](https://github.com/Virkano/gitalk/issues/14)<br/>
 
 
 ### 二分查找
